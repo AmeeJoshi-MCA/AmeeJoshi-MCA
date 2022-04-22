@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amee Joshi</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-- 🔭 I’m currently working on **Android application development**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Open source projects**
-
 - 💬 Ask me about **Android, Kotlin**
 
 - 📫 How to reach me **ameejoshi.mca2012@gmail.com**
