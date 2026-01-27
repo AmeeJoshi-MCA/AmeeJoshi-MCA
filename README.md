@@ -1,83 +1,75 @@
                                                            
-                                
-# 👋 Hi, I’m Amee Joshi
+# 👋 Hi, I’m Amee Joshi  
 
-**Data Engineer | Azure Data Engineer | Data Analyst**  
-**Ex-Software Engineer (Android | 8+ years experience)**
+**Data Engineer | Azure Data Engineer | Data Analytics Specialist | Ex-Android Engineer (8+ Years)**  
 
+I am a data-focused engineer with **8+ years of experience in full software development lifecycle**, currently building **industry-ready, end-to-end data engineering and analytics solutions**.  
+My work focuses on transforming **raw data into analytics-ready datasets** through scalable pipelines and modern data architectures.
 
-I build **industry-ready, end-to-end data solutions** using **modern cloud data architectures**, with **hands-on expertise on Microsoft Azure** and **cloud-agnostic design principles** transferable across platforms.
-
-🔎 *Explore my repositories to see real-world Data Engineering and Analytics implementations.*
-
----
-
-## 🚀 Current Focus
-
-- Building **end-to-end data pipelines** using **Azure Data Factory**
-- Implementing **modern medallion architecture (Bronze, Silver, Gold)**
-- Managing data on **Azure Data Lake Storage (Gen2)**
-- Designing **dynamic, reusable ETL / ELT workflows**
-- Transforming and modeling data using **SQL and Python**
-- Preparing **analytics-ready datasets**
-- Delivering insights via **Power BI and Tableau dashboards**
-- Applying **cloud-agnostic data engineering principles**
+🔎 For detailed implementations and current project exploration, visit:  
+👉 **[My Repository](https://github.com/AmeeJoshi-MCA?tab=repositories)**
 
 ---
 
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & Data Engineering  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake%20Gen2-0078D4?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL%20%2F%20ELT-4CAF50?style=for-the-badge)
-![Medallion](https://img.shields.io/badge/Medallion%20Architecture-673AB7?style=for-the-badge)
-
----
-
-### 📊 Data Analytics & BI  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+## 🔹 Current Focus
+- Building **end-to-end data pipelines** using modern **Medallion Architecture (Bronze, Silver, Gold)**
+- Designing **dynamic, reusable ETL/ELT frameworks**
+- Ingesting data from **raw files and SQL sources**
+- Data transformation, modeling, and validation using **SQL & Python**
+- Delivering insights through **Power BI and Tableau**
+- Azure-focused, **open to AWS and GCP**
 
 ---
 
-### ⚙️ Engineering Practices  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-009688?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/Data%20Quality-4CAF50?style=for-the-badge)
+## 🔹 Background
+- **8+ years as a Software / Android Engineer**
+- Strong experience across the **complete application lifecycle**:
+  - Requirement gathering & system design  
+  - Development, testing, and optimization  
+  - Production release and maintenance (Google Play Store)  
+- Transitioned into the **Data domain** driven by a strong interest in data platforms, analytics, and scalable systems
+
+This background enables me to build **production-grade data solutions with real business context**.
 
 ---
 
-## 🧠 Professional Background
+## 🧰 Tech Stack
 
-- **8+ years of experience** as a Software Engineer (Android)
-- Strong exposure to the **full application lifecycle**:  
-  requirement gathering, development, testing, deployment, and production support
-- Transitioned into the **data domain** driven by a strong interest in  
-  **data platforms, analytics, and data-driven decision making**
-- Applying a **software engineering mindset** to build **scalable, maintainable data solutions**
+### ☁️ Cloud & Data Platforms
+![Azure](https://img.shields.io/badge/Azure-Data_Engineering-blue?logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/Databricks-Data_Platform-red?logo=databricks)
+![Cloud](https://img.shields.io/badge/Cloud-Platform_Agnostic-lightgrey)
+
+### 🔄 Data Engineering
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-ETL-blue)
+![ADLS](https://img.shields.io/badge/Azure_Data_Lake_Gen2-Storage-blue)
+![ETL](https://img.shields.io/badge/ETL%2FELT-Data_Pipelines-green)
+![SQL](https://img.shields.io/badge/SQL-Data_Modeling-orange)
+![Python](https://img.shields.io/badge/Python-Data_Processing-yellow?logo=python)
+
+### 📊 Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-Analytics-yellow?logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-Data_Visualization-blue?logo=tableau)
+
+### 🗂️ Engineering Practices
+![Git](https://img.shields.io/badge/Git-Version_Control-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-black?logo=github)
+![Data Quality](https://img.shields.io/badge/Data_Quality-Validation_&_Monitoring-green)
 
 ---
 
-## 🎯 Open To Roles
-
+## 🎯 Roles of Interest
 - Data Engineer  
 - Azure Data Engineer  
+- Analytics Engineer  
 - BI Developer  
-- Analytics / Data Platform Engineer  
+- Cloud Data Engineer  
 
 ---
 
 ## 🤝 Let’s Connect
+I’m open to **data engineering, analytics, and cloud-data opportunities**, collaboration, and technical discussions.
 
-- **LinkedIn:** https://www.linkedin.com/in/amee-joshi-09b77754/  
-- **GitHub:** https://github.com/AmeeJoshi-MCA  
+🔗 **LinkedIn:** https://www.linkedin.com/in/amee-joshi-09b77754/  
+💻 **GitHub:** https://github.com/AmeeJoshi-MCA  
 
----
-
-⭐ *Focused on building real-world, production-grade data platforms that turn raw data into business insights.*
