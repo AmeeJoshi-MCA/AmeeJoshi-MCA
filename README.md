@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amee Joshi  
 
-**Data Engineer | Azure Data Engineer | Data Analytics Specialist | Ex-Android Engineer (8+ Years)**  
+**Data Engineer | Azure Data Engineer | Data Analytics | Ex-Android Engineer (8+ Years)**  
 
 I am a data-focused engineer with **8+ years of experience delivering production systems**, now specializing in **data engineering and analytics**. I design and build **scalable, cloud-based data solutions** that turn raw data into analytics-ready datasets.
 
