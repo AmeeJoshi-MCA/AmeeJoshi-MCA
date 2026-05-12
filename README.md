@@ -1,8 +1,13 @@
 # 👋 Hi, I’m Amee Joshi  
 
-**Data Engineer | Azure Data Engineer | BI Developer | Data Analytics | Ex-Android Engineer (8+ Years)**  
+**Data Engineer | Azure Data Engineer | BI Developer | Ex-Android Engineer (8+ Years)**  
 
-I am a data-focused engineer with **8+ years of experience delivering production systems**, now specializing in **data engineering and analytics**. I design and build **scalable, cloud-based data solutions** that turn raw data into analytics-ready datasets.
+**About Me**
+Data Engineer with 8+ years of production system experience transitioning from Senior Android Development into modern data engineering. Currently working as a Freelance Data Engineer (1+ year) designing and building scalable cloud data pipelines.
+
+**Now:** Building end-to-end data solutions for e-commerce platforms with focus on ETL pipelines, data modeling, and analytics-ready datasets.
+
+**Philosophy:** I bring software engineering discipline to data systems—focused on reliability, testing, and long-term maintainability.
 
 🚀 **Main Portfolio (Pinned Repository):**  
 👉 **[Data Engineering & Analytics Portfolio](https://github.com/AmeeJoshi-MCA/data-engineering-and-analytics-portfolio)**  
