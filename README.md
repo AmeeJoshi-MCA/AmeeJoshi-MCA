@@ -3,15 +3,21 @@
 **Data Engineer | Azure Data Engineer | BI Developer | Ex-Android Engineer (8+ Years)**  
 
 **About Me**
-Data Engineer with 8+ years of production system experience transitioning from Senior Android Development into modern data engineering. Currently working as a Freelance Data Engineer (1+ year) designing and building scalable cloud data pipelines.
+Data Engineer with 1+ year of hands-on experience based in the Netherlands, focused on building reliable cloud data pipelines on Azure Databricks.
+I came to data engineering from 8+ years as a software engineer — which means I think about data platforms the way I used to think about production software: reliability, ownership, and things that don't break silently.
 
-**Now:** Building end-to-end data solutions for e-commerce platforms with focus on ETL pipelines, data modeling, and analytics-ready datasets.
+----
 
-**Philosophy:** I bring software engineering discipline to data systems—focused on reliability, testing, and long-term maintainability.
-
-🚀 **Main Portfolio (Pinned Repository):**  
+🚀 **Portfolio (Pinned Repository):**  
 👉 **[Data Engineering & Analytics Portfolio](https://github.com/AmeeJoshi-MCA/data-engineering-and-analytics-portfolio)**  
 A curated collection of **industry-ready, end-to-end data engineering and analytics projects**.
+
+---
+
+**What I'm working on**
+Building end-to-end lakehouse pipelines for clients — ingesting from APIs, SQL databases, and vendor files into medallion architecture, with real attention to data quality and incremental processing.
+
+Currently working toward the DP-700 Microsoft Fabric Data Engineer Associate certification.
 
 ---
 
@@ -20,26 +26,12 @@ Designing **modern data platforms** and **end-to-end data pipelines** with stron
 
 ---
 
-## 🔹 Background
-Former **Android Engineer (8+ years)** with hands-on experience across the **complete application lifecycle**—from requirement gathering and system design to production deployment and long-term maintenance.  
-This foundation enables me to build **production-grade data systems** with strong engineering discipline.
-
----
-
 ## 🧰 Tech Stack (Core)
 
-**Cloud & Data Platforms:**  
-Azure · Azure Data Factory · Azure Data Lake Storage (Gen2) · Azure Databricks  
-
-**Data Engineering:**  
-ETL / ELT Pipelines · Medallion Architecture · Lakehouse Architecture ·  
-SQL · Python · Data Modeling · Data Quality & Validation  
-
-**Analytics & BI:**  
-Power BI · Tableau · Excel · KPI Reporting  
-
-**Engineering & Collaboration:**  
-Git · GitHub · Version Control · Documentation
+**Cloud & Data Platforms:**  Azure · Azure Data Factory · Azure Data Lake Storage (Gen2) · Azure Databricks  
+**Data Engineering:**  ETL / ELT Pipelines · Medallion Architecture · SQL · Python · Data Modeling · Data Quality & Validation  
+**Analytics & BI:**  Power BI · Tableau · Excel · KPI Reporting  
+**Engineering & Collaboration:** Git · GitHub · Version Control · Documentation
 
 ---
 
