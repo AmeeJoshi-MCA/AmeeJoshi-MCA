@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amee Joshi  
 
-**Data Engineer | Azure Data Engineer | BI Developer | Ex-Android Engineer (8+ Years)**  
+**Data Engineer | Azure Databricks | PySpark | SQL | Cloud Data Pipelines**
 
 **About Me**
 Data Engineer with 1+ year of hands-on experience based in the Netherlands, focused on building reliable cloud data pipelines on Azure Databricks.
